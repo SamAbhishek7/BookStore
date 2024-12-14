@@ -1,0 +1,1 @@
+This is the book store project which i had done to get a good grip of CRUD operations in mern stack development.
